@@ -1,6 +1,6 @@
-# douyu-vue
+# nuxtdemo
 
-> A Vue.js project
+> A nuxt project
 
 ## Build Setup
 
